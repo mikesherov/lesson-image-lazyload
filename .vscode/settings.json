@@ -6,5 +6,6 @@
   "editor.parameterHints.enabled": false,
   "editor.lightbulb.enabled": false,
   "gitlens.codeLens.enabled": false,
-  "gitlens.currentLine.enabled": false
+  "gitlens.currentLine.enabled": false,
+  "editor.hover.enabled": false
 }
